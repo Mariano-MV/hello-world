@@ -1,3 +1,3 @@
-# hello-world
+# Hello World
 
-Mariano here, I like to go on drives. 
+This is a readme for our first project!
